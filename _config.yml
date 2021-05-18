@@ -1,15 +1,13 @@
-title: "Will Russell"
-email: fellowship@mlh.io
+title: "Max Tassano"
+email: max.tassano@gmail.com
 description: >- # this means to ignore newlines until "baseurl:"
-  Write an awesome description for your new site here. You can edit this
-  line in _config.yml. It will appear in your document head meta (for
-  Google search results) and in your feed.xml site description.
+  This site is a digital resume and project portfolio for Max Tassano. 
 # Root directory for your portfolio. On GitHub Pages, this is the name of your repository.
 baseurl: "/portfolio-template"
 # Protocol + hostname for your portfolio. On GitHub Pages, this is https://yourusername.github.io
 url: "https://mlh-fellowship.github.io" 
-twitter_username: mlhacks
-github_username: mlh-fellowship
+twitter_username: MaxTassano
+github_username: maxtassano
 form_url: "https://formspree.io/f/xrgodpqo"
 social_image: "./assets/img/social-link.jpg"
 social_image_alt: # Alt text for the link preview image
