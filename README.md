@@ -88,12 +88,12 @@ layout: page
 ## Customizing Page Components
 
 You can customize the following components by changing their variable values in `_sass/variables.scss`:
-1. `herobackground` : Background colour for the profile area
+1. `herobackground` : Background color for the profile area
 2. `font_family` : Font style/family used
-3. `text_color` : Colour of the text used
-4. `link` : Hyperlink colour
-5. `title_color` : Colour used for the title
-6. `body_background` : Background Colour used for the page
+3. `text_color` : Color of the text used
+4. `link` : Hyperlink color
+5. `title_color` : Color used for the title
+6. `body_background` : Background Color used for the page
 7. `cardnum_big` : Number of cards for a relatively big screen
 8. `cardnum_medium` : Number of cards for a relatively medium-sized screen
 9. `cardnum_small` : Number of cards for a relatively small screen
