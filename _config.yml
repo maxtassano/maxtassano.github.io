@@ -3,8 +3,7 @@ email: max.tassano@gmail.com
 description: >- # this means to ignore newlines until "baseurl:"
   This site is a digital resume and project portfolio for Max Tassano. 
 # Root directory for your portfolio. On GitHub Pages, this is the name of your repository.
-baseurl: "/portfolio-template"
-# Protocol + hostname for your portfolio. On GitHub Pages, this is https://yourusername.github.io
+baseurl: "/portfolio-template/"
 url: "https://maxtassano.github.io/" 
 twitter_username: MaxTassano
 github_username: maxtassano
